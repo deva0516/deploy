@@ -1,4 +1,4 @@
 import streamlit as st
 
 #Title
-st.title("Vanakam")
+st.title("Vanakam da mapla")
